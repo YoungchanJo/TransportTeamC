@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+/.vs/TransportTeamC
+/TransportTeamC/x64/Debug
+/TransportTeamC/TransportTeamC.vcxproj
+/TransportTeamC/TransportTeamC.vcxproj.filters
+/TransportTeamC/TransportTeamC.vcxproj.user
+/TransportTeamC.sln
+/x64/Debug
+/x64/Debug/TransportTeamC.pdb
